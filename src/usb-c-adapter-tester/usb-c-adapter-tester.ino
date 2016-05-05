@@ -1,5 +1,5 @@
 /**
- * This file is part of USB-C-Adapter-Test.
+ * This file is part of USB-C-Adapter-Tester.
  * 
  * Copyright 2016 Frank Duerr
  *
